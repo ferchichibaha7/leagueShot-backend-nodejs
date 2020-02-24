@@ -6,4 +6,5 @@ router.get('/', function(req, res, next) {
   res.send('Api works fine!');
 });
 
+
 module.exports = router;
